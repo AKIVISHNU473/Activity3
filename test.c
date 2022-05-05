@@ -14,8 +14,8 @@ void tearDown()
 
 void test_sum_of_ascii_charectors(void)
 {
+        
 
-    
 }
 
 
